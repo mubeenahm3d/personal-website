@@ -80,7 +80,7 @@ nav {
 .hero {
   min-height: 90vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url("/img/landing-page.jpg");
+    url("img/landing-page.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -190,7 +190,7 @@ nav {
 #contact {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url("/img/contact-mountain.png");
+    url("img/contact-mountain.png");
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
