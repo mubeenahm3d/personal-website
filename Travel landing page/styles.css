@@ -118,7 +118,7 @@ nav {
 }
 .locations-head h3 {
   padding: 4rem 0;
-  background: linear-gradient(#131c27, #663b34);
+  background: #131c27;
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
