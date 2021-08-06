@@ -99,7 +99,7 @@ nav {
 #locations {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url("/img/new-york-page.png");
+    url("img/new-york-page.png");
   background-size: cover;
   background-position: center;
   display: flex;
